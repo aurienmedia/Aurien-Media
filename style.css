@@ -661,6 +661,7 @@ section {
     padding: 20px 50px;
     scrollbar-width: none;
     -ms-overflow-style: none;
+    justify-content: center;
 }
 
 .brands-scroll-container::-webkit-scrollbar {
@@ -1430,4 +1431,5 @@ section {
 .hero-container {
     position: relative;
     z-index: 2;
+
 }
