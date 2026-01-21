@@ -661,7 +661,7 @@ section {
     padding: 20px 50px;
     scrollbar-width: none;
     -ms-overflow-style: none;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 .brands-scroll-container::-webkit-scrollbar {
@@ -1433,3 +1433,4 @@ section {
     z-index: 2;
 
 }
+
